@@ -3,6 +3,7 @@
 
 ## LIVE SITE LINK (generic)
 <!-- please enter link to site preview here -->
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2fa84e09-3892-4095-ace0-6db80ea3ccd7/deploy-status)](https://app.netlify.com/sites/magne-zis-new-melissa/deploys)
 [Live on Netlify](https://magne-zis-new.netlify.app/)
 
 ## PROJECT PREVIEW
