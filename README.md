@@ -1,7 +1,7 @@
-# SANOFI Magne ZiS generic, 230322-SF-23. New packshots 2023-11-07
+# SANOFI Magne ZiS Melissa, 230322-SF-23. New packshots 2023-11-07
 <!-- please enter project number recived from PM -->
 
-## LIVE SITE LINK
+## LIVE SITE LINK (generic)
 <!-- please enter link to site preview here -->
 [Live on Netlify](https://magne-zis-new.netlify.app/)
 
